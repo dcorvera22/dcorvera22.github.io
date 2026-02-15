@@ -11,6 +11,6 @@
 
 
 ## **Cool Games**
-*  [Elden Ring](https://en.bandainamcoent.eu/elden-ring/elden-ring)
-*  [Terraria](https://terraria.org/)
-*  [Minecraft](https://www.minecraft.net/en-us)
+1.  [Elden Ring](https://en.bandainamcoent.eu/elden-ring/elden-ring)
+2.  [Terraria](https://terraria.org/)
+3.  [Minecraft](https://www.minecraft.net/en-us)
